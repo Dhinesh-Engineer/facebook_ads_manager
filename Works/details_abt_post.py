@@ -5,7 +5,7 @@ access_token = ''
 page_id = '132025263323078'
 
 # Define the endpoint URL to fetch posts
-url = f'https://graph.facebook.com/v12.0/{page_id}/posts'
+url = f'https://graph.facebook.com/v18.0/{page_id}/posts'
 
 # Define query parameters, including the access token
 params = {
