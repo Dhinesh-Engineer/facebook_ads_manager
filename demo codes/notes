@@ -1,0 +1,80 @@
+Facebook API Error: 
+
+  Message: Call was not successful
+  Method:  POST
+  Path:    https://graph.facebook.com/v18.0/act_709905554489858/adcreatives
+  Params:  {'name': 'cAMERA', 'object_story_spec': '{"link_data":{"image_hash":"352a364712d68a24176fbdc2a7087539","link":"https://www.facebook.com/","message":"sALE"},"page_id":"132025263323078"}'}
+
+  Status:  400
+  Response:
+    {
+      "error": {
+        "message": "Invalid parameter",
+        "type": "OAuthException",
+        "code": 100,
+        "error_subcode": 1885183,
+        "is_transient": false,
+        "error_user_title": "Ads creative post was created by an app that is in development mode",
+        "error_user_msg": "Ads creative post was created by an app that is in development mode. It must be in public to create this ad.",    
+        "fbtrace_id": "ARbByWuv1l25-PvGPCNNj3g"
+      }
+    }
+
+
+Facebook API Error: 
+
+  Message: Call was not successful
+  Method:  POST
+  Path:    https://graph.facebook.com/v18.0/act_709905554489858/ads
+  Params:  {'name': 'sale', 'adset_id': '120330000399227914', 'creative': '{"creative_id":"132025263323078"}', 'status': 'ACTIVE'}
+
+  Status:  400
+  Response:
+    {
+        "type": "OAuthException",
+        "code": 100,
+        "error_subcode": 1487015,
+        "is_transient": false,
+        "error_user_msg": "The ad creative is invalid.",
+        "fbtrace_id": "AYOoP2ema5hff5H6tqwWZg0"
+      }
+    }
+
+PS G:\OneYes> & "C:/Users/Dinesh kumar/AppData/Local/Programs/Python/Python36/python.exe" g:/OneYes/First_Training_Task/Sample_codes/demo2.py
+WARNING:root:parent_id as a parameter of constructor is being deprecated.
+C:\Users\Dinesh kumar\AppData\Local\Programs\Python\Python36\lib\site-packages\facebook_business\utils\api_utils.py:16: UserWarning: Value of filename is not be compatible. Expect file; got <class 'str'>
+  warnings.warn(message)
+An error occurred: [Errno 2] No such file or directory: 'path_to_your_image.jpg'
+PS G:\OneYes> & "C:/Users/Dinesh kumar/AppData/Local/Programs/Python/Python36/python.exe" g:/OneYes/First_Training_Task/Sample_codes/demo2.py
+WARNING:root:parent_id as a parameter of constructor is being deprecated.
+WARNING:root:`remote_create` is being deprecated, please update your code with new function.
+WARNING:root:parent_id is being deprecated.
+WARNING:root:parent_id is being deprecated.
+WARNING:root:parent_id is being deprecated.
+Image Hash: 352a364712d68a24176fbdc2a7087539
+WARNING:root:parent_id as a parameter of constructor is being deprecated.
+WARNING:root:`remote_create` is being deprecated, please update your code with new function.
+WARNING:root:parent_id is being deprecated.
+WARNING:root:parent_id is being deprecated.
+WARNING:root:parent_id is being deprecated.
+An error occurred: 
+
+  Message: Call was not successful
+  Method:  POST
+  Path:    https://graph.facebook.com/v18.0/act_709905554489858/adcreatives
+  Params:  {'name': 'Name', 'object_story_spec': '{"link_data":{"image_hash":"352a364712d68a24176fbdc2a7087539","link":"https://www.facebook.com/","message":"welcome to sale"},"page_id":"132025263323078"}'}
+
+  Status:  400
+  Response:
+    {
+      "error": {
+        "message": "Invalid parameter",
+        "type": "OAuthException",
+        "code": 100,
+        "error_subcode": 1885183,
+        "is_transient": false,
+        "error_user_title": "Ads creative post was created by an app that is in development mode",
+        "error_user_msg": "Ads creative post was created by an app that is in development mode. It must be in public to create this ad.",
+        "fbtrace_id": "AM-zgIuusmdx6hIuvzOeHu4"
+      }
+    }
