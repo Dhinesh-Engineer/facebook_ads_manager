@@ -1,0 +1,66 @@
+
+FACEBOOK GRAPH API
+
+Facebook  Business SDK in Python to interact with the  FacebookAdsApi
+
+FacebookAdsApi for api calls
+AdAccount- object it manages all the campaign.ads,AdSet 
+Campaign - advertising campaign create read update delete
+AdSet - group of ads under this used in similiar targeting and budget settings
+AdCreative - content about the ads
+
+
+app id -
+app secret id -
+access token - 
+ad account id -
+campaign id -
+adset id -
+creative id -
+
+FacebookAdsApi.init(app_id, app_secret, access_token) - initialize the api calls
+
+ad_account = AdAccount(ad_account_id)- Create an AdAccount object
+
+campaign = Campaign(parent_id=ad_account_id)
+campaign.remote_create()
+campaign.remote_read()
+campaign.remote_update()
+campaign.remote_delete()  
+id 
+name
+objective
+status
+start date
+end data
+
+
+ad_set = AdSet(parent_id=ad_account_id)
+ad_set.remote_create(params={'status': 'ACTIVE'})
+id
+name
+status - ACTIVE paused delete
+starttime
+endtime
+daily budget -
+bid amount -
+targeting - location
+optimization goal -goal call or link clicks
+
+ad_creative = AdCreative(parent_id=ad_account_id)
+name
+object_story_spec
+page_id
+link_data{ image hash,link,message}
+
+
+ad = Ad(parent_id=ad_account_id)- Create a new Ad and associate it with the Ad Creative
+name
+adset-id - 
+creative-id -
+status -
+ad.remote_create() -
+
+
+
+

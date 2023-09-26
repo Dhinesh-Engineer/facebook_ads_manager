@@ -1,0 +1,388 @@
+[
+    {
+        "ID": "120330000397842814",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:47:54+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397843314",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:47:54+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397841714",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:42:36+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397842114",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:42:36+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397816014",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:37:22+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397816514",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:37:22+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397814814",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:36:35+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397815314",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:36:35+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397686714",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:21:26+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397687114",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:21:26+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397685514",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:19:46+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397685914",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:19:46+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397684214",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:19:20+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397684714",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:19:20+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397682414",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:13:53+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397682914",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:13:53+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397681214",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:11:00+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397681714",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:11:00+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397680114",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:08:52+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000399227914",
+                "Name": "Ad Set 2",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-25T14:42:38+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            },
+            {
+                "ID": "120330000399226314",
+                "Name": "Ad Set 1",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-25T14:39:41+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            },
+            {
+                "ID": "120330000397680514",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:08:52+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397678814",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T16:03:29+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397679314",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T16:03:29+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397468914",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T15:38:27+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397469414",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T15:38:27+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397467714",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T15:29:19+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397468214",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T15:29:19+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397466614",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T15:27:01+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397467014",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T15:27:01+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397465314",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T15:25:38+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397465814",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T15:25:38+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397464114",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T15:22:34+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397464614",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T15:22:34+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397463014",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T15:21:24+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397463414",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T15:21:24+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397461814",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T15:18:13+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397462214",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T15:18:13+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397459914",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "2023-09-22T15:14:39+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": [
+            {
+                "ID": "120330000397460414",
+                "Name": "My AdSet",
+                "Status": "ACTIVE",
+                "Start Time": "2023-09-22T15:14:39+0500",
+                "End Time": "",
+                "Daily Budget": "10000"
+            }
+        ]
+    },
+    {
+        "ID": "120330000397459514",
+        "Name": "My Campaign",
+        "Status": "ACTIVE",
+        "Start Time": "1970-01-01T04:59:59+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_TRAFFIC",
+        "Ad Sets": []
+    },
+    {
+        "ID": "120330000396692314",
+        "Name": "My Sandbox Campaign",
+        "Status": "PAUSED",
+        "Start Time": "1970-01-01T04:59:59+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_LEADS",
+        "Ad Sets": []
+    },
+    {
+        "ID": "120330000396691814",
+        "Name": "My Sandbox Campaign",
+        "Status": "PAUSED",
+        "Start Time": "1970-01-01T04:59:59+0500",
+        "End Time": "",
+        "Objective": "OUTCOME_LEADS",
+
+        "Ad Sets": []
+    }
+]
