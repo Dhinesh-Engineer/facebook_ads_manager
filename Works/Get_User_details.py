@@ -7,7 +7,7 @@ access_token = ''
 
 
 user_id = 'me' #can use "me" or user_id
-graph_api_url = f'https://graph.facebook.com/v12.0/{user_id}'
+graph_api_url = f'https://graph.facebook.com/v18.0/{user_id}'
 
 
 fields = 'id,name,email'
