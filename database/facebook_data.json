@@ -1,0 +1,531 @@
+{
+    "data": [
+        {
+            "id": "6003746006353",
+            "name": "People (magazine)",
+            "audience_size_lower_bound": 308908163,
+            "audience_size_upper_bound": 363276000,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "People (magazine)"
+            ],
+            "description": null,
+            "topic": "News and entertainment"
+        },
+        {
+            "id": "6003729063753",
+            "name": "Watch",
+            "audience_size_lower_bound": 233406666,
+            "audience_size_upper_bound": 274486240,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Watch"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        },
+        {
+            "id": "6004947688373",
+            "name": "Smartwatch",
+            "audience_size_lower_bound": 93742568,
+            "audience_size_upper_bound": 110241260,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Smartwatch"
+            ],
+            "description": null,
+            "topic": "Technology"
+        },
+        {
+            "id": "6003587678073",
+            "name": "Rolex",
+            "audience_size_lower_bound": 54723760,
+            "audience_size_upper_bound": 64355142,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Rolex"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "331530550372473",
+            "name": "Apple Watch",
+            "audience_size_lower_bound": 54543698,
+            "audience_size_upper_bound": 64143390,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Apple Watch"
+            ],
+            "description": null
+        },
+        {
+            "id": "6003148796436",
+            "name": "Omega SA",
+            "audience_size_lower_bound": 13686454,
+            "audience_size_upper_bound": 16095270,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Omega SA"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        },
+        {
+            "id": "6002906088879",
+            "name": "Swatch",
+            "audience_size_lower_bound": 11405833,
+            "audience_size_upper_bound": 13413260,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Swatch"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        },
+        {
+            "id": "6003312953611",
+            "name": "Automatic watch",
+            "audience_size_lower_bound": 10639931,
+            "audience_size_upper_bound": 12512560,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Automatic watch"
+            ],
+            "description": null,
+            "topic": "Technology"
+        },
+        {
+            "id": "6003314360114",
+            "name": "Mechanical watch",
+            "audience_size_lower_bound": 6187040,
+            "audience_size_upper_bound": 7275960,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Mechanical watch"
+            ],
+            "description": null,
+            "topic": "Technology"
+        },
+        {
+            "id": "6003022883556",
+            "name": "WNYW",
+            "audience_size_lower_bound": 6122304,
+            "audience_size_upper_bound": 7199830,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "WNYW"
+            ],
+            "description": null
+        },
+        {
+            "id": "6003162277378",
+            "name": "Fossil, Inc.",
+            "audience_size_lower_bound": 5076989,
+            "audience_size_upper_bound": 5970540,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Fossil, Inc."
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6003745715491",
+            "name": "Breguet (watch)",
+            "audience_size_lower_bound": 3195906,
+            "audience_size_upper_bound": 3758386,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Breguet (watch)"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6003235045461",
+            "name": "watch shop",
+            "audience_size_lower_bound": 3137389,
+            "audience_size_upper_bound": 3689570,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "watch shop"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        },
+        {
+            "id": "6003395327241",
+            "name": "Watch (TV channel)",
+            "audience_size_lower_bound": 3113486,
+            "audience_size_upper_bound": 3661460,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Watch (TV channel)"
+            ],
+            "description": null,
+            "topic": "News and entertainment"
+        },
+        {
+            "id": "6003160727817",
+            "name": "MarketWatch",
+            "audience_size_lower_bound": 3059200,
+            "audience_size_upper_bound": 3597620,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "MarketWatch"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6004844210817",
+            "name": "End of Watch",
+            "audience_size_lower_bound": 2687261,
+            "audience_size_upper_bound": 3160220,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "End of Watch"
+            ],
+            "description": null,
+            "topic": "News and entertainment"
+        },
+        {
+            "id": "6004925904232",
+            "name": "Watch Dogs",
+            "audience_size_lower_bound": 2302593,
+            "audience_size_upper_bound": 2707850,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Watch Dogs"
+            ],
+            "description": null,
+            "topic": "News and entertainment"
+        },
+        {
+            "id": "6003199764265",
+            "name": "Oris (company)",
+            "audience_size_lower_bound": 2267823,
+            "audience_size_upper_bound": 2666960,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Oris (company)"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6003405508406",
+            "name": "Rado (watch)",
+            "audience_size_lower_bound": 2170683,
+            "audience_size_upper_bound": 2552724,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Rado (watch)"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6003029763455",
+            "name": "International Watch Company",
+            "audience_size_lower_bound": 2047576,
+            "audience_size_upper_bound": 2407950,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "International Watch Company"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6018520806868",
+            "name": "Android Wear",
+            "audience_size_lower_bound": 1796329,
+            "audience_size_upper_bound": 2112483,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Android Wear"
+            ],
+            "description": null
+        },
+        {
+            "id": "6003740625553",
+            "name": "Ice-Watch",
+            "audience_size_lower_bound": 1711037,
+            "audience_size_upper_bound": 2012180,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Ice-Watch"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        },
+        {
+            "id": "6003772745278",
+            "name": "Invicta Watch Group",
+            "audience_size_lower_bound": 1412465,
+            "audience_size_upper_bound": 1661060,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Invicta Watch Group"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6002985685819",
+            "name": "Citizen Holdings",
+            "audience_size_lower_bound": 1355926,
+            "audience_size_upper_bound": 1594570,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Citizen Holdings"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6003023972250",
+            "name": "Diving watch",
+            "audience_size_lower_bound": 1316258,
+            "audience_size_upper_bound": 1547920,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Diving watch"
+            ],
+            "description": null,
+            "topic": "Technology"
+        },
+        {
+            "id": "6014443736722",
+            "name": "Watch What Happens: Live",
+            "audience_size_lower_bound": 996607,
+            "audience_size_upper_bound": 1172010,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Watch What Happens: Live"
+            ],
+            "description": null,
+            "topic": "News and entertainment"
+        },
+        {
+            "id": "6003650309554",
+            "name": "Movies Now | Watch Hollywood in HD",
+            "audience_size_lower_bound": 952389,
+            "audience_size_upper_bound": 1120010,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Movies Now | Watch Hollywood in HD"
+            ],
+            "description": null,
+            "topic": "News and entertainment"
+        },
+        {
+            "id": "6015116477091",
+            "name": "BBC Springwatch",
+            "audience_size_lower_bound": 928750,
+            "audience_size_upper_bound": 1092210,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "BBC Springwatch"
+            ],
+            "description": null,
+            "topic": "News and entertainment"
+        },
+        {
+            "id": "6005147099186",
+            "name": "Sony SmartWatch",
+            "audience_size_lower_bound": 445965,
+            "audience_size_upper_bound": 524455,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Sony SmartWatch"
+            ],
+            "description": null,
+            "topic": "Technology"
+        },
+        {
+            "id": "6003450307775",
+            "name": "Hamilton Watch Company",
+            "audience_size_lower_bound": 442559,
+            "audience_size_upper_bound": 520450,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Hamilton Watch Company"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        },
+        {
+            "id": "6004418593566",
+            "name": "Pebble (watch)",
+            "audience_size_lower_bound": 437253,
+            "audience_size_upper_bound": 514210,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Pebble (watch)"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        },
+        {
+            "id": "6003531227398",
+            "name": "BALL Watch Company",
+            "audience_size_lower_bound": 380331,
+            "audience_size_upper_bound": 447270,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "BALL Watch Company"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "749298788530890",
+            "name": "Orient Watch",
+            "audience_size_lower_bound": 327253,
+            "audience_size_upper_bound": 384850,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Orient Watch"
+            ],
+            "description": null
+        },
+        {
+            "id": "6011456560849",
+            "name": "NASA Meteor Watch",
+            "audience_size_lower_bound": 199897,
+            "audience_size_upper_bound": 235080,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "NASA Meteor Watch"
+            ],  
+            "description": null
+        },
+        {
+            "id": "6012217722869",
+            "name": "Watch World",
+            "audience_size_lower_bound": 140238,
+            "audience_size_upper_bound": 164920,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Watch World"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        },
+        {
+            "id": "6003344708593",
+            "name": "Fashion Watch",
+            "audience_size_lower_bound": 101989,
+            "audience_size_upper_bound": 119940,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Fashion Watch"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        },
+        {
+            "id": "6014038624334",
+            "name": "Survival Watch",
+            "audience_size_lower_bound": 74226,
+            "audience_size_upper_bound": 87290,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Survival Watch"
+            ],
+            "description": null
+        },
+        {
+            "id": "6003087466792",
+            "name": "Seafood Watch",
+            "audience_size_lower_bound": 57950,
+            "audience_size_upper_bound": 68150,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Seafood Watch"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6003394881712",
+            "name": "Search Engine Watch",
+            "audience_size_lower_bound": 20039,
+            "audience_size_upper_bound": 23567,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Search Engine Watch"
+            ],
+            "description": null,
+            "topic": "Business and industry"
+        },
+        {
+            "id": "6015207061954",
+            "name": "Yo-Kai Watch",
+            "audience_size_lower_bound": 13103,
+            "audience_size_upper_bound": 15410,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "Yo-Kai Watch"
+            ],
+            "description": null,
+            "topic": "News and entertainment"
+        },
+        {
+            "id": "6003536491170",
+            "name": "cartier watch",
+            "audience_size_lower_bound": 1282,
+            "audience_size_upper_bound": 1508,
+            "path": [
+                "Interests",
+                "Additional interests",
+                "cartier watch"
+            ],
+            "description": null,
+            "topic": "Shopping and fashion"
+        }
+    ]
+}

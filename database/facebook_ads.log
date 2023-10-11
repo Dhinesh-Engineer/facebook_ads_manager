@@ -1,0 +1,80 @@
+2023-09-23 10:40:56,263 - ERROR: An error occurred: 
+
+  Message: Call was not successful
+  Method:  GET
+  Path:    https://graph.facebook.com/v18.0/709905554489858/campaigns
+  Params:  {'fields': 'id,name,status,start_time,end_time,spend', 'summary': 'true'}
+
+  Status:  400
+  Response:
+    {
+      "error": {
+        "message": "Unsupported get request. Object with ID '709905554489858' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
+        "type": "GraphMethodException",
+        "code": 100,
+        "error_subcode": 33,
+        "fbtrace_id": "AsTuVMzNlxVzU3_zcaPcwW-"
+      }
+      
+    }
+
+2023-09-23 10:41:42,376 - ERROR: An error occurred: 'end_time'
+2023-09-23 10:42:30,633 - ERROR: An error occurred: 'spend'
+2023-09-23 10:43:06,733 - ERROR: An error occurred: 
+
+  Message: Call was not successful
+  Method:  GET
+  Path:    https://graph.facebook.com/v18.0/709905554489858/campaigns
+  Params:  {'fields': 'id,name,status,start_time', 'summary': 'true'}
+
+  Status:  400
+  Response:
+    {
+      "error": {
+        "message": "Unsupported get request. Object with ID '709905554489858' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
+        "type": "GraphMethodException",
+        "code": 100,
+        "error_subcode": 33,
+        "fbtrace_id": "AUtNr-7KHc40jAPvXn7kpac"
+      }
+    }
+
+2023-09-23 10:43:27,964 - ERROR: An error occurred: 'spend'
+2023-09-23 10:43:59,565 - ERROR: An error occurred: 
+
+  Message: Call was not successful
+  Method:  GET
+  Path:    https://graph.facebook.com/v18.0/120330000397842814/adsets
+  Params:  {'fields': 'id,name,impressions,ctr', 'summary': 'true'}
+
+  Status:  400
+  Response:
+    {
+      "error": {
+        "message": "(#100) Tried accessing nonexisting field (impressions) on node type (AdSet)",
+        "type": "OAuthException",
+        "code": 100,
+        "fbtrace_id": "A9RAL8SzUHZej16gHiD2CXL"
+      }
+    }
+
+2023-09-25 15:19:38,148 - ERROR: An error occurred: 'Cursor' object has no attribute 'next_page'
+2023-09-25 16:38:13,635 - ERROR: An error occurred: [Errno 2] No such file or directory: 'G:\\OneYes\\First_Training _Task\\download(1).jpg'
+2023-09-25 16:39:52,269 - ERROR: An error occurred: [Errno 2] No such file or directory: 'G:\\OneYes\\First_Training _Task\\download(1).jpg'
+2023-09-25 16:43:43,226 - ERROR: An error occurred: [Errno 2] No such file or directory: 'G:\\OneYes\\First_Training_Task\\download(1).jpg'
+2023-09-25 16:46:08,133 - ERROR: An error occurred: [Errno 2] No such file or directory: 'G:\\OneYes\\First_Training_Task\\download(1).jpg'
+2023-09-25 19:49:36,185 - ERROR: An error occurred: [Errno 2] No such file or directory: 'G:\\OneYes\\First_Training_Task\\download(1).jpg'
+2023-09-25 20:12:32,544 - ERROR: An error occurred: [Errno 2] No such file or directory: 'G:\\OneYes\\First_Training_Task\\download(1).jpg'
+  2023-09-25 20:15:10,358 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:17:13,646 - ERROR: An error occurred: [Errno 2] No such file or directory: 'G:/OneYes/First_Training_Task/download(1).jpg'
+2023-09-25 20:17:50,166 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:19:34,301 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:21:56,158 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:22:36,594 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:25:19,391 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:27:08,468 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:54:55,506 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:55:34,202 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:56:06,772 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:56:48,944 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
+2023-09-25 20:59:54,258 - ERROR: An error occurred: stat: path should be string, bytes, os.PathLike or integer, not _io.BufferedReader
